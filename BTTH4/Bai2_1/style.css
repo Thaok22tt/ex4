@@ -70,8 +70,8 @@ ul li{
     display: grid;
     justify-content: center;
     align-items: center;
-    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr)); 
-    grid-gap: 30px; 
+    grid-template-columns: repeat(auto-fit, minmax(50rem, 1fr)); 
+    grid-gap: 50px; 
     padding: 0.2rem 0;
 }
 .a{
