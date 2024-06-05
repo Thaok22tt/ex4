@@ -71,7 +71,7 @@ ul li{
     justify-content: center;
     align-items: center;
     grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr)); 
-    grid-gap: 20px; 
+    grid-gap: 30px; 
     padding: 0.2rem 0;
 }
 .a{
